@@ -5,4 +5,5 @@
 
 再從這個網站拿到方塊格子的輸入方式 [這個網站](https://tw.piliapp.com/symbol/square/) ，拼湊出一個進度條 
 展示影片
-https://imgur.com/7h3kWha.mov
+https://imgur.com/7h3kWha.jpg
+
